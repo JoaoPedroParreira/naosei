@@ -1,0 +1,51 @@
+.backgroundimg{
+  background-image: url("../images/backhome.jpg");
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+
+
+}
+
+.teste1{
+  align-items: center;
+}
+
+.naoselect {
+    -webkit-touch-callout: none;  
+      -webkit-user-select: none; 
+       -khtml-user-select: none; 
+         -moz-user-select: none; 
+          -ms-user-select: none; 
+              user-select: none; 
+  }
+
+  .margem{
+    margin-top: 100px;
+  }
+  .margem1{
+    margin-top: 100px;
+    align-items:center;
+    margin-left: 100px;
+    justify-content: center;
+    background-color: white;
+
+  }
+
+  .Lancamentos{
+    background-color:rgb(44, 44, 44);
+    align-items: center;
+    margin-top: 500px;
+    background-repeat: no-repeat;
+  }
+
+  .letralan{
+    margin-top: 50px;
+    color: white;
+    align-items: center;
+  }
+
+  .ola{
+    margin-bottom: 100px;
+
+  }
